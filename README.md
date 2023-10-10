@@ -5,14 +5,15 @@ I'm a Team Leader, Developer, and Mentor!
 Connect with me:
 Email | Telegram | WhatsApp
 
-Languages and Tools:
+### Languages and Tools:
+
 Phyton
+
+Machine Learning
 
 HTML5
 
 CSS3
-
-Sass
 
 JavaScript
 
