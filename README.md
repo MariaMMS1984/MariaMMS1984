@@ -1,5 +1,5 @@
 ### Hi there, I'm Maria Matusovskaya 👋
-I'm a Team Leader, Developer, and Mentor!
+
 🔭 I’m currently learning on Yandex Praktikum and actively looking for a job.
 
 Connect with me:
