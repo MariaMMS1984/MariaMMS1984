@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there, I'm Maria Matusovskaya 👋
+I'm a Team Leader, Developer, and Mentor!
+🔭 I’m currently learning on Yandex Praktikum and actively looking for a job.
 
-<!--
-**MariaMMS1984/MariaMMS1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me:
+Email | Telegram | WhatsApp
 
-Here are some ideas to get you started:
+Languages and Tools:
+Phyton
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5
+
+CSS3
+
+Sass
+
+JavaScript
+
+React
+
+Node.js
+
+SQL
+
+MySQL
+
+MongoDB
+
+Git
+
+GitHub
+
+
+
